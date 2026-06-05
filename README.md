@@ -1,5 +1,3 @@
-![Logo](https://raw.githubusercontent.com/HexploitTeam/Hexploit-Tunneling-App/blob/master/app/src/main/res/drawable-xxxhdpi/Hexploit.png)
-
 # 👋 Welcome to HexploitTeam
 
 ## Who We Are
