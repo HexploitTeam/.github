@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./logo.png" width="200" alt="HexploitTeam Logo">
-</p>
+![HexploitTeam Logo](./logo.png)
+
 # 👋 Welcome to HexploitTeam
 
 ## Who We Are
